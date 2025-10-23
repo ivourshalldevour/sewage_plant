@@ -1,0 +1,2 @@
+Good code that handles a rotary encoder with very simple logic:
+	https://github.com/buxtronix/arduino/tree/master/libraries/Rotary
