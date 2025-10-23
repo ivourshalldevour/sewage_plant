@@ -1,5 +1,3 @@
-
-
 #include "Arduino.h"
 #include "Button.h"
 
@@ -45,6 +43,5 @@ unsigned char Button::process() {
     }
 
     return false;   // not pressed
-    
 }
 

@@ -30,6 +30,7 @@ void setup() {
 }
 
 void loop() {
+    // delay(50);
     unsigned char rot_state = rotary.process();
 
     if(rot_state == DIR_CW) {
